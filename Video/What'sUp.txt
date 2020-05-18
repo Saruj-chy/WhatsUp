@@ -1,0 +1,9 @@
+//   it's also used in androidx
+import androidx.appcompat.widget.Toolbar;
+
+//Anroid image cropper
+https://github.com/ArthurHub/Android-Image-Cropper
+
+// toolbar e back button how apply by manifest 
+<activity android:name=".FindFriendsActivity"
+            android:parentActivityName=".MainActivity"/>
